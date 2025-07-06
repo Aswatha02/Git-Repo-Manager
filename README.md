@@ -101,19 +101,4 @@ You can generate a PAT from GitHub by visiting:
 
 ---
 
-## 📷 Screenshots (Optional)
-
-You can add images showing:
-- User registration/login
-- Repository creation
-- File operations
-- Git push/pull with authentication
-
----
-
-## 📄 License
-
-MIT License — free to use, modify, and distribute.
-
----
 
